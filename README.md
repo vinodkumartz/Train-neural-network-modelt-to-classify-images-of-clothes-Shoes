@@ -102,6 +102,6 @@ The model demonstrated strong performance with 90.85% accuracy on unseen data, i
 ## Conclusion  
 This project highlights the power of CNNs in image classification tasks and provides insights into the impact of different optimizers and loss functions. Future improvements could include testing advanced architectures like ResNet or tuning hyperparameters for better accuracy.  
 
----
 
-Feel free to modify or expand this template based on any additional specifics from your notebook!
+
+
